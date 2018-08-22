@@ -6,5 +6,9 @@ kkkkkkkkkk
 abcdefghijklmnopqrstuvwxyz
 azaaaaaaa
 hai
+<<<<<<< HEAD
 first commit
 second commit
+=======
+mergeconflict solved
+>>>>>>> parent of 6836120... first commit
