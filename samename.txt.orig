@@ -5,8 +5,11 @@ chandhan
 kkkkkkkkkk
 abcdefghijklmnopqrstuvwxyz
 azaaaaaaa
-<<<<<<< HEAD
 hai
+<<<<<<< HEAD
+first commit
+second commit
+hgcfytdxiyctgh
 =======
-mergeconflict
->>>>>>> 349de6f7702cf5b01e723b7b858ab71b2b990104
+mergeconflict solved
+>>>>>>> parent of 6836120... first commit
